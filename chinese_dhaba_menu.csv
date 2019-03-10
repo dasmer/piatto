@@ -1,0 +1,27 @@
+item_name,item_description,item_price,item_category,item_vegan,item_glutenfree
+Vegetable Spring Rolls,"Cabbage, celery, carrots, green onions and Chinese noodles in a crispy wonton wrapper.",8,Vegetarian,TRUE,FALSE
+Chilli Gobi,Fresh cauliflower prepared with fresh herbs and chili peppers.,10,Vegetarian,TRUE,TRUE
+Chilli Tofu,Grilled tofu prepared with fresh herbs and chili peppers.,10,Vegetarian,TRUE,TRUE
+Gobi Manchurian,Crispy cauliflower in savory Manchurian sauce.,13,Vegetarian,TRUE,FALSE
+Sweet & Sour Vegetable,Fresh vegetables mixed with pineapples in a sweet and source sauce.,13,Vegetarian,TRUE,TRUE
+Manchurian Vegetable,Round vegetable dumpling balls in a savory Manchurian sauce.,13,Vegetarian,TRUE,FALSE
+Lollipop Chicken Wings,,9,Chicken,TRUE,FALSE
+Chilli Chicken,Tender pieces of chicken prepared with fresh herbs and chili peppers.,13,Chicken,FALSE,TRUE
+Hot Garlic Chicken,Sauteed chicken breast in a spicy garlic sauce.,13,Chicken,FALSE,FALSE
+Broccoli Chicken,Sliced chicken and broccoli in a tasty garlic sauce.,13,Chicken,FALSE,TRUE
+Sweet & Sour Chicken,Diced chicken breast lightly stir-fried with a tangy sweet and spice sauce,13,Chicken,FALSE,FALSE
+Manchurian Chicken,Tender pieces of chicken in a savory Manchurian sauce.,13,Chicken,FALSE,FALSE
+Basil Ginger Chicken,Stir-fried sliced chicken breast with basil and garlic sauce.,13,Chicken,FALSE,TRUE
+Hot Garlic Shrimp,Large gourmet shrimp in a spicy garlic sauce.,16,Shrimp,FALSE,FALSE
+Schezwan Shrimp,Gourmet shrimp sauteed with fresh vegetables in a savory schezwan sauce.,16,Shrimp,FALSE,FALSE
+White Basmati Rice,,4,Rice,TRUE,TRUE
+Brown Basmati Rice,,5,Rice,TRUE,TRUE
+Vegetable Fried Rice,"Basmati rice stir-fried and seasoned to perfection with fresh carrots, scallions and other vegetables.",12,Rice,TRUE,TRUE
+Chicken Fried Rice,Basmati rice stir-fried and seasoned to perfection with shredded piece of tender chicken.,13,Rice,FALSE,TRUE
+Shrimp Fried Rice,"Basmati rice stir-friend with gourmet baby shrimp, fresh carrots, scallions and other vegetables.",16,Rice,FALSE,TRUE
+Vegetable Hakka Noodles,Hakka style noodles with fresh vegetables.,12,Noodles,TRUE,FALSE
+Chicken Hakka Noodles,Hakka style noodles with tender pieces of chicken.,13,Noodles,FALSE,FALSE
+Chilli Garlic Noodles,Hakka style noodles with garlic and fresh chillis and spices.,13,Noodles,FALSE,FALSE
+Mango Lassi,Traditional cold and refreshing yogurt based drink made with mango pulp.,5,Beverages,FALSE,TRUE
+Poland Spring Water,,2,Beverages,TRUE,TRUE
+Soda,,2,Beverages,TRUE,TRUE
