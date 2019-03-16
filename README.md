@@ -12,7 +12,7 @@ cd piatto
 ```
 Then copy and paste your CSV file to the newly cloned `piatto` folder. Before running the python script, make sure you have [Beautiful Soup][1] installed. Next, run: 
 ```
-python generator.py [CSV-MENU-NAME].csv [HTML-MENU-NAME].html
+python piatto.py [CSV-MENU-NAME].csv [HTML-MENU-NAME].html
 ```
 where
 `[CSV-MENU-NAME]` is  name of your CSV file in this folder.
