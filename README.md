@@ -2,6 +2,8 @@
 
 Piatto generates an HTML/CSS web snippet from a CSV spreadsheet of menu items so that you can easily create menu webpages for restaurant websites. 
 
+![CSV to HTML Converter](images/convert.jpg)
+
 To start, create a spreadsheet with column names: `item_name`, `item_description`, `item_price`, `item_category`, `item_vegan`, `item_glutenfree`. Save it as a CSV.
 
 Clone this repository in command line:
@@ -22,7 +24,7 @@ Your HTML menu has been generated. To  view it in a browser type:
 ```
 open [HTML-MENU-NAME].html
 ```
-If you use this repository to generate a menu, add it to this README below.
+If you use this repository to generate a menu, add a link to it in the "Menus built by Piatto" section below.
 
 I would thrill to see the repository extended to support additional functionality. Pull requests are welcome :octocat:.
 
