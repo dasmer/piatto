@@ -4,7 +4,7 @@ Piatto generates an HTML/CSS web snippet from a CSV spreadsheet of menu items so
 
 ![CSV to HTML Converter](images/convert.jpg)
 
-To start, create a spreadsheet with column names: `item_name`, `item_description`, `item_price`, `item_category`, `item_vegan`, `item_glutenfree`. Save it as a CSV.
+To start, create a spreadsheet with column names: `item_name`, `item_description`, `item_price`, `item_category`, `item_vegan`, `item_glutenfree`. Add your menu items to the columns. Save the spreadsheet as a CSV.
 
 Clone this repository in command line:
 
