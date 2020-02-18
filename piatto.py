@@ -37,9 +37,9 @@ for category in categories:
     for item in items:
         description = item["item_description"]
         if item["item_vegan"] == "TRUE":
-            description += "(V)"
+            description += "(Vegan)"
         if item["item_glutenfree"] == "TRUE":
-            description += "(GF)"
+            description += "(Gluten-Free)"
 
 
         html += "<div class=\"menu-item\">"
