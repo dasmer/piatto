@@ -1,6 +1,7 @@
 .menu-body {
   max-width: 680px;
   margin: 0 auto;
+  padding: 10;
   display: block;
   color: rgb(92, 92, 92);
 }
