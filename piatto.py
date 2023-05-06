@@ -36,16 +36,18 @@ for category in categories:
 
     for item in items:
         description = item["item_description"]
+        if item["item_vegetarian"] == "TRUE":
+            description += " (Vegetarian)"
         if item["item_vegan"] == "TRUE":
-            description += "(Vegan)"
+            description += " (Vegan)"
         if item["item_glutenfree"] == "TRUE":
-            description += "(Gluten-Free)"
+            description += " (Gluten-Free)"
 
 
         html += "<div class=\"menu-item\">"
 
         html += "<div class=\"menu-item-name\">" + item["item_name"] + "</div>"
-        html += "<div class=\"menu-item-price\">$" + item["item_price"] + "</div>"
+        html += "<div class=\"menu-item-price\">" + item["item_price"] + "</div>"
         html += "<div class=\"menu-item-description\">" + description + "</div>"
 
         html += "</div>"
